@@ -1,2 +1,2 @@
-# Anet-A6
-Contains 3D-Models of original Parts and my own upgrades
+# Anet A6-Projects
+Contains various projects for Anet A6 3D-Printer
